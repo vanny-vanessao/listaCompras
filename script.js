@@ -1,8 +1,8 @@
 const shoppingList = [
-    { name: 'Star Platinum', image: 'listaCompras/star-platinum.jpeg' },
-    { name: 'Silver Chariot', image: 'listaCompras/silver-chariot.jpg' },
-    { name: "Magician's Red", image: "listaCompras/magician's-red.jpg" },
-    { name: 'Hierophant Green', image: 'listaCompras/hierophant-green.jpg' }
+    { name: 'Star Platinum', image: 'star-platinum.jpeg' },
+    { name: 'Silver Chariot', image: 'silver-chariot.jpg' },
+    { name: "Magician's Red", image: "magician's-red.jpg" },
+    { name: 'Hierophant Green', image: 'hierophant-green.jpg' }
 ];
 
 function loadShoppingList() {
